@@ -1,5 +1,4 @@
 /* eslint-disable linebreak-style */
-
 const { Router } = require('express');
 
 const LogEntry = require('../models/logEntry');
